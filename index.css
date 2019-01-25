@@ -1,0 +1,18 @@
+p	{
+
+	text-align: right; 	size: 200px;
+}
+
+.first {
+
+	color: blue; font-size: 30px; text-align: left;
+}
+
+ li ol {
+	color: white; background: green; border: solid; border-color: black;
+ }
+
+ li ul {
+	color: black; background: yellow; border: double; border-color: orange;
+ }
+
